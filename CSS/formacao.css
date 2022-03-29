@@ -17,7 +17,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("../img/ellipse_pacman.svg") no-repeat center;
+  background: url("https://frsh-prnc.github.io/curriculoPedro/img/ellipse_pacman.svg") no-repeat center;
   position: absolute;
   bottom: -50px;
   left: 20px;
@@ -83,17 +83,17 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url("../img/cursos.svg") no-repeat center center;
+  background: url("https://frsh-prnc.github.io/curriculoPedro/img/cursos.svg") no-repeat center center;
   position: absolute;
   left: -36px;
   top: -4px;
   color: #c570d3;
 }
 .cursos h3::before {
-  background: url("../img/cursos.svg");
+  background: url("https://frsh-prnc.github.io/curriculoPedro/img/cursos.svg");
 }
 .idiomas h3::before {
-  background: url("../img/idiomas.svg");
+  background: url("https://frsh-prnc.github.io/curriculoPedro/img/idiomas.svg");
 }
 .formacao-extra li {
   font-size: 1.125rem;
